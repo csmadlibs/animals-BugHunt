@@ -25,26 +25,38 @@
 <script>
     var button = document.getElementById("lib-button")
     var onButtonClick = function(){
-        var  =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
-        var =
+    var adj1 = document.getElementById("adj1")
+    var noun1 = document.getElementById("noun1")
+    var noun1 = document.getElementById("bug1")
+    var noun1 = document.getElementById("bug2")
+    var noun1 = document.getElementById("bug3")
+    var noun1 = document.getElementById("noun2")
+    var noun1 = document.getElementById("adj2")
+    var noun1 = document.getElementById("bug4")
+    var noun1 = document.getElementById("verb1")
+    var noun1 = document.getElementById("bug5")
+    var noun1 = document.getElementById("adj3")
+    var noun1 = document.getElementById("noun3")
+    var noun1 = document.getElementById("verb2")
+    var noun1 = document.getElementById("verb3")
+    
+
+         
+         
+         
+         
+         
+        
 
     }
 var body = document.getElementById("body")
 console.log("body")
 
 </script>
+
+
+
+
 
 
 

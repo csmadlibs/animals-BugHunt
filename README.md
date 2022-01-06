@@ -18,8 +18,8 @@
     <li>Verb: <input type="text" id="verb3"></li>
 </ul>
 <button id="lib-button">Lib it!</button>
-      
-<p>Generated story: 
+
+<p>Generated story:
     <span id="story"></span>
 </p>
 <script>
@@ -40,17 +40,9 @@
     var noun1 = document.getElementById("noun3").value
     var noun1 = document.getElementById("verb2").value
     var noun1 = document.getElementById("verb3").value
-    story.innerHTML = 
+    story.innerHTML =
     }
 
-
-
 </script>
-
-
-
-
-
-
 
 </body>
